@@ -11,7 +11,6 @@ int main (void)
 	char charString[BUF_SIZE];
 	int bytes = 1;
 	int num;
-	int firstByte = 1;
 
 	if ((fp = fopen("test_file.txt", "r")) == NULL)
 	{
