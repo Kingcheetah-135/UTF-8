@@ -1,2 +1,2 @@
 # UTF-8
-Some character encoding stuff
+Some character encoding stuff.
